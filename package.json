@@ -1,0 +1,16 @@
+{
+    "name": "cloudrun-readjsontobigquery",
+    "version": "1.0.0",
+    "description": "Read updated gs://bss_json/pulllogs.json and import into bigquery",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "@google-cloud/bigquery": "^5.10.0",
+        "@google-cloud/storage": "^5.18.0",
+        "express": "^4.16.4"
+    }
+}
