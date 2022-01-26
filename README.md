@@ -15,8 +15,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://www.bucklit.com.au">
-    <img src="https://drive.google.com/file/d/1CVWffWjEachGYa1fUNK1bh8PH4XuZPJQ/view?usp=sharing" alt="Logo" width="80" height="80">
+  <a target="_blank" href="https://www.bucklit.com.au">
+    <img src="https://drive.google.com/uc?export=view&id=1CVWffWjEachGYa1fUNK1bh8PH4XuZPJQ" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BEHAVIOR SUPPORT PLANNER</h3>
@@ -24,7 +24,7 @@
   <p align="center">
     Behavior Support Planner a tool meant to address the individualized needs of a child or youth with complex behavioral health problems.
 
-<a href="https://www.figma.com/file/xQDKaye9msu41Z6X1Cpk1r/Google-Cloud-Platform%3DBSS-Implementation?node-id=0%3A1">
+<a target="_blank" href="https://www.figma.com/file/xQDKaye9msu41Z6X1Cpk1r/Google-Cloud-Platform%3DBSS-Implementation?node-id=0%3A1">
 Technical architecture or solutions flow diagram.
   </a>
 
@@ -48,7 +48,7 @@ Behavior practitioners in the disability and other sectors across the globe have
 The system will allow logging of the behavior/incident. Which involves capturing the incident - paying attention to and recording antecedent, triggers, and mood state. Over time it builds a picture of the client. The system proposed will analyze and collate the data, finally presenting a report that can help identify specific triggers.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
- <img src="https://drive.google.com/file/d/1ecXeTvrlNddhpXRWKBMbGZ5O-ehbV8PK/view" alt="Banner" width="700" height="250">
+ <img src="https://drive.google.com/uc?export=view&id=1ecXeTvrlNddhpXRWKBMbGZ5O-ehbV8PK" alt="Banner" width="700" height="250">
 
 ### Built With
 
