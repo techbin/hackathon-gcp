@@ -50,14 +50,6 @@ The system will allow logging of the behavior/incident. Which involves capturing
 
  <img src="https://drive.google.com/uc?export=view&id=1ecXeTvrlNddhpXRWKBMbGZ5O-ehbV8PK" alt="Banner" width="700" height="250">
 
-### Built With
-
-* [Google Cloud Storage](https://nextjs.org/)
-* [Google Cloud Run](https://nextjs.org/)
-* [Google Cloud BigQuery](https://nextjs.org/)
-* [Data Studio](https://nextjs.org/)
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
